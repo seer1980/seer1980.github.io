@@ -102,9 +102,9 @@
 
 **3. 非盈利性科普与大众传播：开放共享，强制署名 (Non-Profit Popularization: Open Sharing with Mandatory Attribution)**
 基于促进人类认知觉醒的愿景，本人热忱欢迎大众媒体、自媒体创作者、学术爱好者进行非盈利性质的科普视频制作、文章撰写或论坛探讨。
-此等传播**无需事先授权**，但依据 Zenodo 上采用的知识共享许可协议 CC BY 4.0，**必须在内容显著位置（如视频简介、文章开头）清晰标注"核心理论提出者：贾宝龙（Jia, Baolong）"**，并附带对应文献的 Zenodo 链接。未按规定署名的传播行为，视为对著作人身权（署名权）的侵犯。
+此等传播**无需事先授权**，但依据知识共享许可协议 CC BY 4.0，**必须在内容显著位置（如视频简介、文章开头）清晰标注"核心理论提出者：贾宝龙（Jia, Baolong）"**，并附带对应文献的 DOI。未按规定署名的传播行为，视为对著作人身权（署名权）的侵犯。
 *Driven by the vision of promoting human cognitive awakening, I warmly welcome mass media, independent content creators, and academic enthusiasts to engage in non-profit popular science video production, article writing, or forum discussions.*
-*Such dissemination **does NOT require prior authorization**, but in accordance with the CC BY 4.0 license adopted on Zenodo, **it MUST clearly attribute "Core Theory Proposed by: Jia, Baolong" in a prominent position (e.g., video description, beginning of the article)**, accompanied by the Zenodo links of the corresponding literature. Dissemination without proper attribution constitutes an infringement of the author's moral right of paternity.*
+*Such dissemination **does NOT require prior authorization**, but in accordance with the CC BY 4.0 license, **it MUST clearly attribute "Core Theory Proposed by: Jia, Baolong" in a prominent position (e.g., video description, beginning of the article)**, accompanied by the corresponding DOI. Dissemination without proper attribution constitutes an infringement of the author's moral right of paternity.*
 
 ### 四、 法律声明与保留权利
 ### IV. Legal Notice and Reserved Rights
