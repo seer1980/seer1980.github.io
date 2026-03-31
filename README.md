@@ -5,6 +5,10 @@
 📫 seer@139.com · 🌐 [seer1980.github.io](https://seer1980.github.io/)
 
 ---
+### **J**$\small\color{gray}\text{arring drives}$ · **B**$\small\color{gray}\text{eing holds}$ · **L**$\small\color{gray}\text{azy unfolds}$
+### **假**$\small\color{gray}\text{生势}$ · **保**$\small\color{gray}\text{成局}$ · **龙**$\small\color{gray}\text{演万物}$
+---
+
 
 ## J · B · L
 
